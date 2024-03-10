@@ -4,8 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("3 34" ,"Hello");
-console.log('"World"')
+console.log("8 5" ,"Hello World");
+console.log('"Zombies and Humans"')
 
 /*  
 Next, PLAY! 
